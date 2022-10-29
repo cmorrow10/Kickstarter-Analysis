@@ -16,6 +16,7 @@
 ---
 ### Results
 #### Outcomes Based on Launch Date
-###### From January through December, there was a total of 1,369 plays and over 800 plays were successful.
-######    
+###### From January through December, there was a total of 1,369 plays and over 800 plays were successful. The total number plays that failed was slightly under 500. From September to November, there were no cancellations.
+#### Outcomes Based on Goals
+######
 
