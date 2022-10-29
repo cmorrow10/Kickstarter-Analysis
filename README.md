@@ -18,5 +18,7 @@
 #### Outcomes Based on Launch Date
 ###### From January through December, there was a total of 1,369 plays and over 800 plays were successful. The total number plays that failed was slightly under 500. From September to November, there were no cancellations.
 #### Outcomes Based on Goals
-######
+###### There is about a 50% difference between failed and successful outcomes based on goals. However, there was a 100% fail in the 45000 to 49999 range.
+---
+###### Line graphs are a great tool but for the data used for this analysis, a bar graph would be more beneficial and better detailed to compare the number of successful and the number of failed outcomes.
 
