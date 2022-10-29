@@ -11,7 +11,8 @@
 ---
 #### Outcomes Based on Goals 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/114371722/198755934-6c516762-b7ac-4da4-b2c7-b2a6ffe19c93.png)
-###### For Outcomes Based on Goals, I added a new excel sheet and created a "goals" category, followed by rows starting at less than 1000, ending with no more than 50000, and 10 other ranges in between. From there, I added eight more categories which were Number Successful, Number Failed, Number Canceled, Total Projects, Percentage Successful, Percentage Failed, Percentage Canceled  
+###### For Outcomes Based on Goals, I added a new excel sheet and created a "goals" category, followed by rows starting at less than 1000, ending with no more than 50000, and 10 other ranges in between. From there, I added eight more categories which were number successful, number failed, number canceled, total projects, percentage successful, percentage failed, and percentage canceled. To find all the goal numbers, "=COUNTIF" was used for the outcomes, goals, and subcategory columns, and then I was able to add another criteria to get the different ranges. The =SUM formula was used for the "total projects" and also used to divide finding "percentage successful" and "percentage failed". "Percentage Cancelled" had zero results in the outcome.
+###### The biggest struggle I had with this deliverable, was using the =COUNTIF function. I couldnt seem to find the right formula to make everything work and received alot of error pop ups. 
 ---
 ### Results
 
