@@ -15,4 +15,7 @@
 ###### The biggest struggle I had with this deliverable, was using the =COUNTIF function. I couldnt seem to find the right formula to make everything work and received alot of error pop ups. 
 ---
 ### Results
+#### Outcomes Based on Launch Date
+###### From January through December, there was a total of 1,369 plays and over 800 plays were successful.
+######    
 
