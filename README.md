@@ -1,9 +1,8 @@
 # Kickstarter-Analysis
-# Module 1 Challenge
-## Overview of Project
+## Module 1 Challenge
+### Overview of Project
+###### Throughout the course of a year, Louise’s play "Fever", came close to it's fundraising goal. The purpose of this analysis was to see reults containing, outcomes based on launch date and the outcomes based on goals.
 ---
-### Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals.
----
-## Analysis and Challenges
----
+### Analysis and Challenges
+### 
 ## Results
