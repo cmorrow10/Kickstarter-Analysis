@@ -11,7 +11,7 @@
 ---
 #### Outcomes Based on Goals 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/114371722/198755934-6c516762-b7ac-4da4-b2c7-b2a6ffe19c93.png)
-###### For Outcomes Based on Goals
+###### For Outcomes Based on Goals, I added a new excel sheet and created a "goals" category, followed by rows starting at less than 1000, ending with no more than 50000, and 10 other ranges in between. From there, I added eight more categories which were Number Successful, Number Failed, Number Canceled, Total Projects, Percentage Successful, Percentage Failed, Percentage Canceled  
 ---
 ### Results
 
