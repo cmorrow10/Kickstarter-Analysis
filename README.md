@@ -5,5 +5,5 @@
 ---
 ### Analysis and Challenges
 #### Outcomes based on launch date
-![This is an image]("C:\Users\morro\OneDrive\Desktop\Analysis Projects\Module 1 Challenge\Resources\Theater_Outcomes_vs_Launch.png")
+![This is an image](Theater_Outcomes_vs_Launch.png)
 ### Results
