@@ -5,5 +5,5 @@
 ---
 ### Analysis and Challenges
 #### Outcomes based on launch date
-![This is an image](Theater_Outcomes_vs_Launch.png)
+!(Theater_Outcomes_vs_Launch.png)
 ### Results
